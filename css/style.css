@@ -1,4 +1,8 @@
 body {
-  background: teal;
+  background: #2a2a2a;
   color: #fff;
+}
+
+h1 {
+  color: wheat;
 }
